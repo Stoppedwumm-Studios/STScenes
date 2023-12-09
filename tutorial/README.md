@@ -32,4 +32,12 @@ Now, you need to let the programm index your scene folder, this is the command:
 STScenes:GetScenes()
 ```
 
+This function will return a tbale like this
+
+```lua
+{
+  ["Init"] = InstanceOfScene
+}
+```
+
 
