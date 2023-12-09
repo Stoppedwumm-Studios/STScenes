@@ -8,6 +8,8 @@ First, create a Folder in the ServerStorage and call it "Scenes". This will be o
 YOUR GAME HAS TO BE PUBLISHED (it can be set to private) AND HTTP REQUESTS ENABLED (>Game Settings>Security>Enable Http Requests)
 This is needed to update and load essential scripts from Github
 
+More information about we need HTTP Requests: <https://stoppedwumm-studios.github.io/STScenes/security-safety-privacy/>
+
 ## Your first scene
 Now, lets create a Scene, add a configuration object to you Folder and call it "Init". This scene will be loaded after setup, this will only affect the workspace for now, more info about this see: <https://stoppedwumm-studios.github.io/STScenes/tutorial/#more-scene-types>
 
@@ -56,7 +58,7 @@ it returns the Loaded Scene Instance
 ## Scripts
 Scripts WILL BE EXECUTED IN SCENE FOLDER IF THERE IS NO FAILSAFE
 
-I wrote a Function to load
+I wrote a Function to load the script, to use it, disable the script in the scene, as soon as it loads in, it will do a recursive search in the Scenes for scripts and enable them
 
 ## More Scene Types
 ### AudioScenes
