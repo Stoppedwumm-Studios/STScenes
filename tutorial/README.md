@@ -11,7 +11,7 @@ This is needed to update and load essential scripts from Github
 ## Your first scene
 Now, lets create a Scene, add a configuration object to you Folder and call it "Init". This scene will be loaded after setup, this will only affect the workspace for now, more info about this see: <https://stoppedwumm-studios.github.io/STScenes/tutorial/#more-scene-types>
 
-Add a Folder as Child and call it "workspace", add in there what you like to have in your workspace.
+Add in there what you like to have in your workspace.
 
 ## Switching between Scenes
 After you done this, go to <https://stoppedwumm-studios.github.io/STScenes/> and look for the newest asset ID
@@ -21,7 +21,7 @@ Add a
 local STScenes = require(NEWEST ASSET ID HERE)
 ```
 
-in your Script and test run to look for any errors with your init Scene
+in your Script and test run to look for any errors with your Init Scene
 
 If the scene loads correctly, you should have done everything right!
 
