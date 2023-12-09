@@ -4,7 +4,7 @@ STScenes Updates
 Here you can find changelogs and newest versions
 
 # Tutorial
-<https://stoppedwumm-studios.github.io/tutorial>
+<https://stoppedwumm-studios.github.io/STScenes/tutorial>
 
 # Newest AssetID
 
