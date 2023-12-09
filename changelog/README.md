@@ -1,4 +1,8 @@
 # Changelogs
+## *Planned* 0.1.1
+1. New Settings
+2. Explanation of Scripts
+
 ## 0.1.0
 1. Added Audio Scenes
 2. Basic Scripts done
