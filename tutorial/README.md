@@ -55,7 +55,14 @@ it returns the Loaded Scene Instance
 
 ## More Scene Types
 ### AudioScenes
-Create a "Audio" Folder in your ServerStorage, it behaves like normal Scenes, but if you want to switch, use
+Create a "Audio" Folder in your ServerStorage, it behaves like normal Scenes (needs to be indexed again:
+
+```lua
+STScenes:GetAudioScenes()
+```
+
+), but if you want to switch, use
+
 ```lua
 STScenes:ChangeAudioScene("YOUR AUDIO SCENE NAME")
 ```
