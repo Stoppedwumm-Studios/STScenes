@@ -32,7 +32,7 @@ Now, you need to let the programm index your scene folder, this is the command:
 STScenes:GetScenes()
 ```
 
-This function will return a tbale like this
+This function will return a table:
 
 ```lua
 {
@@ -40,4 +40,4 @@ This function will return a tbale like this
 }
 ```
 
-
+It contains all scenes, with their name and Instance
