@@ -28,13 +28,13 @@ See <https://stoppedwumm-studios.github.io/STScenes/tutorial/#your-first-scene> 
 
 Now, you need to let the programm index your scene folder, this is the command:
 
-```luau
+```lua
 STScenes:GetScenes()
 ```
 
 This function will return a table:
 
-```luau
+```lua
 {
   ["Init"] = game.ServerStorage.Scenes.Init
 }
