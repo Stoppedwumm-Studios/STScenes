@@ -11,3 +11,10 @@ Here you can find changelogs and newest versions
 ```lua
 15585881877
 ```
+
+# Other links
+## Changelog
+<https://stoppedwumm-studios.github.io/STScenes/changelog/>
+
+## Security Safety Privacy
+<https://stoppedwumm-studios.github.io/STScenes/security-safety-privacy/>
