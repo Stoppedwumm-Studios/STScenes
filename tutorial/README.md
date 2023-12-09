@@ -47,3 +47,17 @@ Change the scene via the ChangeScene("YOUR SCENE NAME") Function
 ```lua
 STScenes:ChangeScene("YOUR SCENE NAME")
 ```
+
+it returns the Loaded Scene Instance
+
+## More Scene Types
+### AudioScenes
+Create a "Audio" Folder in your ServerStorage, it behaves like normal Scenes, but if you want to switch, use
+```lua
+STScenes:ChangeAudioScene("YOUR AUDIO SCENE NAME")
+```
+
+It will load in SoundService.Audio, where you can trigger it like normal
+
+### Note
+**MORE will follow shortly**
