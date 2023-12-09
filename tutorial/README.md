@@ -2,7 +2,7 @@
 A quick start Guide for STScenes
 
 # Quickstart
-## Prepartion
+## Preperation
 First, create a Folder in the ServerStorage and call it "Scenes". This will be our storage for scenes.
 
 ## Your first scene
