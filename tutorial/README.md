@@ -34,9 +34,9 @@ STScenes:GetScenes()
 
 This function will return a table:
 
-```lua
+```luau
 {
-  ["Init"] = InstanceOfScene
+  ["Init"] = game.ServerStorage.Scenes.Init
 }
 ```
 
