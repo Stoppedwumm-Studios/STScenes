@@ -24,10 +24,12 @@ If the scene loads correctly, you should have done everything right!
 
 Now lets add another Scene, you can call it what you want.
 
-See INSERT ANCHOR HERE again, but instead of calling it "Init", call it something to your liking.
+See [Your first Scene]<https://stoppedwumm-studios.github.io/STScenes/tutorial/#your-first-scene> again, but instead of calling it "Init", call it something to your liking.
 
 Now, you need to let the programm index your scene folder, this is the command:
 
 ```lua
 STScenes:GetScenes()
 ```
+
+
