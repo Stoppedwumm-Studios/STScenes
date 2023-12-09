@@ -28,7 +28,7 @@ See <https://stoppedwumm-studios.github.io/STScenes/tutorial/#your-first-scene> 
 
 Now, you need to let the programm index your scene folder, this is the command:
 
-```lua
+```luau
 STScenes:GetScenes()
 ```
 
