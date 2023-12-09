@@ -5,6 +5,9 @@ Here you can find changelogs and newest versions
 
 ### Current Version: 0.1.0
 
+### Planned Version: 0.1.1 
+(<https://github.com/Stoppedwumm-Studios/STScenes/milestone/1>)
+
 # Tutorial
 <https://stoppedwumm-studios.github.io/STScenes/tutorial>
 
