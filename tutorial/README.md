@@ -4,6 +4,8 @@ A quick start Guide for STScenes
 # Quickstart
 ## Preperation
 First, create a Folder in the ServerStorage and call it "Scenes". This will be our storage for scenes.
+YOUR GAME HAS TO BE PUBLISHED (it can be set to private) AND HTTP REQUESTS ENABLED (>Game Settings>Security>Enable Http Requests)
+This is needed to update and load essential scripts from Github
 
 ## Your first scene
 Now, lets create a Scene, add a configuration object to you Folder and call it "Init". This scene will be loaded after setup, this will only affect the workspace for now, more info about this see: INSERT ANCHOR HERE
