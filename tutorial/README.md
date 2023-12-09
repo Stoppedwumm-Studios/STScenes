@@ -41,3 +41,11 @@ This function will return a table:
 ```
 
 It contains all scenes, with their name and Instance
+
+Change the scene via the ChangeScene("YOUR SCENE NAME") Function
+
+```lua
+STScenes("YOUR SCENE NAME")
+```
+
+```lua
