@@ -9,7 +9,7 @@ YOUR GAME HAS TO BE PUBLISHED (it can be set to private) AND HTTP REQUESTS ENABL
 This is needed to update and load essential scripts from Github
 
 ## Your first scene
-Now, lets create a Scene, add a configuration object to you Folder and call it "Init". This scene will be loaded after setup, this will only affect the workspace for now, more info about this see: INSERT ANCHOR HERE
+Now, lets create a Scene, add a configuration object to you Folder and call it "Init". This scene will be loaded after setup, this will only affect the workspace for now, more info about this see: <https://stoppedwumm-studios.github.io/STScenes/tutorial/#more-scene-types>
 
 Add a Folder as Child and call it "workspace", add in there what you like to have in your workspace.
 
