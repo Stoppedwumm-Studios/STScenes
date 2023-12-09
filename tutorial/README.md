@@ -53,6 +53,11 @@ STScenes:ChangeScene("YOUR SCENE NAME")
 
 it returns the Loaded Scene Instance
 
+## Scripts
+Scripts WILL BE EXECUTED IN SCENE FOLDER IF THERE IS NO FAILSAFE
+
+I wrote a Function to load
+
 ## More Scene Types
 ### AudioScenes
 Create a "Audio" Folder in your ServerStorage, it behaves like normal Scenes (needs to be indexed again:
@@ -67,7 +72,7 @@ STScenes:GetAudioScenes()
 STScenes:ChangeAudioScene("YOUR AUDIO SCENE NAME")
 ```
 
-It will load in SoundService.Audio, where you can trigger it like normal
+It will load in SoundService.Audio, where you can trigger it like normal (the loaded Audio Scene gets returned by the function)
 
 ### Note
 **MORE will follow shortly**
