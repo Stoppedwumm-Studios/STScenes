@@ -5,17 +5,17 @@ Here are all the scripts from my game, in this README.md file you can see which 
 ## Scripts
 Main Module
 
-  Functions
+>Functions
 
-  Setup
+>Setup
   
-  Updater
+>Updater
 
 ## Other objects
 (Main Module)
 
-  Sounds (old)
+>Sounds (old)
   
-    Main Sound (Sound)
-    
-  STScenes (Configuration)
+>>Main Sound (Sound)
+
+>STScenes (Configuration)
