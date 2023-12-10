@@ -1,7 +1,7 @@
 # Changelogs
-## *Planned* 0.1.1
+## 0.1.1
 1. New Settings
-2. Explanation of Scripts
+2. *Removed* Source Code
 
 ## 0.1.0
 1. Added Audio Scenes
