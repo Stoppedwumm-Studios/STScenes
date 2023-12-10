@@ -6,7 +6,7 @@ Here are all the scripts from my game, in this README.md file you can see which 
 Main Module
 
   Functions
-  
+
   Setup
   
   Updater
