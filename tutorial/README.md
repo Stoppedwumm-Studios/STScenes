@@ -79,3 +79,19 @@ It will load in SoundService.Audio, where you can trigger it like normal (the lo
 
 ### Note
 **MORE will follow shortly**
+
+# Settings
+Settings are build to make your console a bit clearer (and if you want, you can disable the updater :-[]!)
+
+These are the standard ones:
+```lua
+{
+	-- Enable Updater
+	updater = true,
+	-- Enable logging
+	logging = false,
+	-- Enable Script
+	scriptactive = true
+}
+```
+
