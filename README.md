@@ -3,9 +3,9 @@ STScenes Updates
 
 Here you can find changelogs and newest versions
 
-### Current Version: 0.1.0
+### Current Version: 0.1.1
 
-### Planned Version: 0.1.1 
+### Planned Version: *Currently no Version planned*
 (<https://github.com/Stoppedwumm-Studios/STScenes/milestone/1>)
 
 # Tutorial
