@@ -1,5 +1,6 @@
 # STScenes
-![](https://stoppedwumm-studios.github.io/STScnes/assets/images/logo.jpeg)
+![_aba3a37e-7919-40bb-a6b4-69f3f6d6b273](https://github.com/Stoppedwumm-Studios/STScenes/assets/150438484/b91f192d-e8f3-4efa-bd9a-0fbf6dfc3539)
+
 STScenes Updates
 
 Here you can find changelogs and newest versions
