@@ -22,6 +22,9 @@ Here you can find changelogs and newest versions
 ## Changelog
 <https://stoppedwumm-studios.github.io/STScenes/changelog/>
 
+## Documentation
+<https://stoppedwumm-studios.github.io/STScenes/documentation/>
+
 ## Security Safety Privacy
 <https://stoppedwumm-studios.github.io/STScenes/security-safety-privacy/>
 
