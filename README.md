@@ -24,3 +24,5 @@ Here you can find changelogs and newest versions
 
 ## Security Safety Privacy
 <https://stoppedwumm-studios.github.io/STScenes/security-safety-privacy/>
+
+Now rehosted from Github via Github Actions
