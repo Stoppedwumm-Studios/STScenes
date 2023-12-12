@@ -2,6 +2,8 @@
 ## *Planned for 16.12.2023* 1.0.0
 1. Real release
 2. Ready for deployment
+3. Advanced Documentation follows shortly
+4. Settings gets an update
 
 ## 0.1.1
 1. New Settings
