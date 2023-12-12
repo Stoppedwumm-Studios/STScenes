@@ -95,3 +95,5 @@ These are the standard ones:
 }
 ```
 
+# Advanced Usage
+If you plan on making an event, maybe consider this: <https://stoppedwumm-studios.github.io/STScenes/mixed-scenes/>
