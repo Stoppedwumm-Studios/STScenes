@@ -8,6 +8,7 @@ Here you can find changelogs and newest versions
 ### Current Version: 0.1.1
 
 ### Planned Version: 1.0.0
+### Beginning Update at 3 pm
 
 # Tutorial
 <https://stoppedwumm-studios.github.io/STScenes/tutorial>
