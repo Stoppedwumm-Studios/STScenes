@@ -7,8 +7,10 @@ Here you can find changelogs and newest versions
 
 ### Current Version: 0.1.1
 
-### Planned Version: 1.0.0
-### Beginning Update at 4-5 pm
+### Planned Version: Nothing planned
+Advertisment on Roblox Developer Server
+[Message](https://discord.com/channels/448986884497211392/448989837505200129/1185303740593483867)
+
 
 # Tutorial
 <https://stoppedwumm-studios.github.io/STScenes/tutorial>
