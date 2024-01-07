@@ -6,7 +6,7 @@ STScenes Updates
 Here you can find changelogs and newest versions
 
 ### Current Version: 1.0.0
-If this doesn't change, please go to <https://stoppedwumm-studios.github.io/STScenes/api/v1/new>
+If this doesn't change, please go to [https://stoppedwumm-studios.github.io/STScenes/api/v1/new](https://raw.githubusercontent.com/Stoppedwumm-Studios/STScenes/main/api/v1/new)
 
 ### Planned Version: Nothing planned
 Advertisment on Roblox Developer Server
